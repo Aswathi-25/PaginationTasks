@@ -32,6 +32,8 @@ public class AmazonTask {
 		
 		//driver.quit();
 		
+		System.out.println("Amazontask pushing again");
+		
 		
 		
 	}
