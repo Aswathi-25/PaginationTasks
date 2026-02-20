@@ -32,7 +32,7 @@ public class AmazonTask {
 		
 		//driver.quit();
 		
-		
+		System.out.println("commit");
 		
 	}
 
